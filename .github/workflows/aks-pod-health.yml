@@ -1,7 +1,7 @@
 name: AKS Pod Health Check
 
 on:
-  schedule:
+  ddddxschedule:
     ------ cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
