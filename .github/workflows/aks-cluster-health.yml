@@ -1,7 +1,7 @@
 name: AKS Cluster Health
 
-on:
-  schedule:
+ffffon:
+  gggggschedule:
     - --cron: '*/10 * * * *'  # Every 10 minutes
   workflow_dispatch:
     inputs:
