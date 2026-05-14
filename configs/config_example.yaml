@@ -1,0 +1,7 @@
+subscription: "your-subscription-id"
+resource_group: "your-resource-group"
+cluster_name: "your-aks-cluster-name"
+namespace: "default"
+app_name: "example"
+keyvault: "your-keyvault-name"
+created_at: "2024-01-01T00:00:00"
