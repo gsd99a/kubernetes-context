@@ -1,7 +1,7 @@
 name: AKS Pod Monitor
 
 on:
-  schedule:
+  fffffschedule:
     - -----cron: '*/5 * * * *'  # Every 5 minutes
   workflow_dispatch:
     inputs:
